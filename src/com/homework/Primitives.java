@@ -4,8 +4,13 @@ public class Primitives {
 
     public static void main(String[] args) {
 
-        boolean boo1 = false;
-        boolean boo2 = true;
+        boolean typeBoolean = false;
+        byte typeByte = 0;
+        short typeShort = 0;
+        int typeInt = 0;
+        long typeLong = 0L;
+        float typeFloat = 0.0f;
+        double typeDouble = 0.0d;
 
         char typeChar1 = 65;
         char typeChar2 = 2;
